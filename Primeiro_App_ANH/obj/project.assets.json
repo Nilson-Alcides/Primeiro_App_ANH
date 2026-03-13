@@ -5272,11 +5272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH.csproj",
+      "projectUniqueName": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH.csproj",
       "projectName": "Primeiro_App_ANH",
-      "projectPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH.csproj",
+      "projectPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH.csproj",
       "packagesPath": "C:\\Users\\Nilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\Primeiro_App_ANH\\Primeiro_App_ANH\\obj\\",
+      "outputPath": "C:\\Users\\Nilson\\source\\repos\\ASPNETCORE\\Primeiro_App_ANH\\Primeiro_App_ANH\\Primeiro_App_ANH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
